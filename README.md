@@ -7,3 +7,9 @@ Obejtivo del Repositorio:
 3. Metodo de "evaluacion" del training
 
 Enjoy Sotitos!
+
+## Flujo de trabajo
+- main: rama estable
+- develop: rama de desarrollo
+- feature/*: nuevas funcionalidades
+- hotfix/*: correcciones urgentes
