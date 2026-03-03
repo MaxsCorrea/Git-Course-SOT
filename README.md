@@ -13,3 +13,6 @@ Enjoy Sotitos!
 - develop: rama de desarrollo
 - feature/*: nuevas funcionalidades
 - hotfix/*: correcciones urgentes
+
+## proceso de instalacion
+- Siempre que quiera armar una branch nueva debo salir de DEVOPS
