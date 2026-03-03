@@ -13,3 +13,6 @@ Enjoy Sotitos!
 - develop: rama de desarrollo
 - feature/*: nuevas funcionalidades
 - hotfix/*: correcciones urgentes
+
+## Instalation Process
+- Siempre que quiera crear una branch nueva debo partir de devops.
