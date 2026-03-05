@@ -15,5 +15,7 @@ Enjoy Sotitos!
 - hotfix/*: correcciones urgentes
 
 
-## Instalation process
--Siempre que quiera armar una branch nueva debo salir de DEVOPS
+## Instalation Process
+-Conar el repositorio
+-Crear una nueva branch desde Devops
+-Realizar los cambios necesarios
