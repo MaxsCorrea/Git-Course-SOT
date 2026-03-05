@@ -15,4 +15,6 @@ Enjoy Sotitos!
 - hotfix/*: correcciones urgentes
 
 ## Instalation Process
-- Siempre que quiera crear una branch nueva debo partir de devops.
+- Clonar el repositorio
+- Crear una branch desde devops
+- Realizar los cambios necesarios
