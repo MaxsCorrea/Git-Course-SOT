@@ -18,4 +18,4 @@ Enjoy Sotitos!
 ## Instalation Process
 -Conar el repositorio
 -Crear una nueva branch desde Devops
--Realizar los cambios necesarios
+-Realizar los cambios necesarios :D
