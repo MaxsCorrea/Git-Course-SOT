@@ -14,5 +14,7 @@ Enjoy Sotitos!
 - feature/*: nuevas funcionalidades
 - hotfix/*: correcciones urgentes
 
-## proceso de instalacion
-- Siempre que quiera armar una branch nueva debo salir de DEVOPS
+## Clonacion
+- clonar el repositorio
+- crear una branch desde devops
+- realizar los cambios necesarios
