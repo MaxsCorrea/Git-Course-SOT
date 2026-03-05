@@ -14,7 +14,8 @@ Enjoy Sotitos!
 - feature/*: nuevas funcionalidades
 - hotfix/*: correcciones urgentes
 
+
 ## Instalation Process
-- Clonar el repo
-- Crear una branch desde devops
-- Realizar los cambios necesarios
+-Conar el repositorio
+-Crear una nueva branch desde Devops
+-Realizar los cambios necesarios :D
