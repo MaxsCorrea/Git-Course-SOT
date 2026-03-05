@@ -13,3 +13,8 @@ Enjoy Sotitos!
 - develop: rama de desarrollo
 - feature/*: nuevas funcionalidades
 - hotfix/*: correcciones urgentes
+
+## Instalation Process
+- Clonar el repo
+- Crear una branch desde devops
+- Realizar los cambios necesarios
