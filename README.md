@@ -18,3 +18,6 @@ Enjoy Sotitos!
 - Clonar el repositorio
 - Crear una branch desde devops
 - Realizar los cambios necesarios
+
+# Sotito
+ValenVecchio
